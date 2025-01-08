@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/nishantkumar1308?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nishantkumar1308"><img src="https://github-readme-stats.vercel.app/api?username=nishantkumar1308&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=3382ed&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="nishantkumar1308's GitHub stats" /></a>
+<a href="http://www.github.com/nishantdotcom"><img src="https://github-readme-stats.vercel.app/api?username=nishantkumar1308&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=3382ed&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="nishantkumar1308's GitHub stats" /></a>
 
 <a href="http://www.github.com/nishantkumar1308"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantkumar1308&stroke=3382ed&background=000000&ring=6366f1&fire=6366f1&currStreakNum=3382ed&currStreakLabel=6366f1&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
