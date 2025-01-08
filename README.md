@@ -1,5 +1,1 @@
-Nishant Here 
-==============================
-
-Web Dev || Competitive Programmer || 
----------------------------------
+Nishant Here ...
